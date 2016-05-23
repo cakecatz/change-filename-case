@@ -1,4 +1,3 @@
-var path = require('path');
 var changeCase = require('change-case');
 
 var firstMethods = {
