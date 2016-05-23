@@ -1,0 +1,20 @@
+{
+  "name": "change-filename-case",
+  "bin": {
+    "cfc": "./index.js",
+    "change-filename-case": "./index.js"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ryo Narita",
+  "license": "MIT",
+  "dependencies": {
+    "change-case": "^2.3.1",
+    "commander": "^2.9.0"
+  }
+}
